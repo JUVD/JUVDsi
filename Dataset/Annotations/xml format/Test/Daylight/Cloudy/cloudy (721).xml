@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Cloudy</folder>
+	<filename>cloudy (721).jpeg</filename>
+	<path>E:\Dataset\Test\Daylight\Cloudy\cloudy (721).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>127</ymin>
+			<xmax>255</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>111</ymin>
+			<xmax>504</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>133</ymin>
+			<xmax>125</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

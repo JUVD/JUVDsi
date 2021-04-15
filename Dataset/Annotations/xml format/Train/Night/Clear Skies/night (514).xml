@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Clear Skies</folder>
+	<filename>night (514).jpeg</filename>
+	<path>E:\Dataset\Train\Night\Clear Skies\night (514).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Motorbike</name>
+		<pose>moving</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>109</ymin>
+			<xmax>236</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Motorbike</name>
+		<pose>moving</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>126</ymin>
+			<xmax>151</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>

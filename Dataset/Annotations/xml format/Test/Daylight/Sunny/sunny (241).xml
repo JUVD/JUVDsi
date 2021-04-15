@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Sunny</folder>
+	<filename>sunny (241).jpeg</filename>
+	<path>E:\Dataset\Test\Daylight\Sunny\sunny (241).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Minitruck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>47</ymin>
+			<xmax>203</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Autorickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>54</ymin>
+			<xmax>465</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

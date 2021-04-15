@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Sunny</folder>
+	<filename>sunny (150).jpeg</filename>
+	<path>E:\Dataset\Train\Daylight\Sunny\sunny (150).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Autorickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>91</ymin>
+			<xmax>384</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>87</ymin>
+			<xmax>201</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>84</ymin>
+			<xmax>68</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

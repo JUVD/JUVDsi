@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Sunny</folder>
+	<filename>sunny (1102).jpeg</filename>
+	<path>E:\Dataset\Train\Daylight\Sunny\sunny (1102).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>108</ymin>
+			<xmax>349</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>111</ymin>
+			<xmax>51</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>

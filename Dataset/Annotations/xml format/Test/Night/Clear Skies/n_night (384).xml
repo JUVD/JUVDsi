@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Clear Skies</folder>
+	<filename>n_night (384).jpeg</filename>
+	<path>E:\Dataset\Test\Night\Clear Skies\n_night (384).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>403</xmin>
+			<ymin>10</ymin>
+			<xmax>628</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>86</ymin>
+			<xmax>322</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>

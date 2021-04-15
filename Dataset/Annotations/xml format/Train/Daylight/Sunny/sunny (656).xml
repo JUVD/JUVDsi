@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sunny</folder>
+	<filename>sunny (656).jpeg</filename>
+	<path>E:\Dataset\Train\Daylight\Sunny\sunny (656).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>89</ymin>
+			<xmax>225</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+</annotation>

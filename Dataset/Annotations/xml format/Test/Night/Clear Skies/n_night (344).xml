@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Clear Skies</folder>
+	<filename>n_night (344).jpeg</filename>
+	<path>E:\Dataset\Test\Night\Clear Skies\n_night (344).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>81</ymin>
+			<xmax>159</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>

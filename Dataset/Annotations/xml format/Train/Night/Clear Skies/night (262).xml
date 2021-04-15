@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Clear Skies</folder>
+	<filename>night (262).jpeg</filename>
+	<path>E:\Dataset\Train\Night\Clear Skies\night (262).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cycle</name>
+		<pose>moving</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>73</ymin>
+			<xmax>182</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cycle</name>
+		<pose>moving</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>79</ymin>
+			<xmax>245</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cycle</name>
+		<pose>moving</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>403</xmin>
+			<ymin>87</ymin>
+			<xmax>468</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cloudy</folder>
+	<filename>cloudy (567).jpeg</filename>
+	<path>E:\Dataset\Train\Daylight\Cloudy\cloudy (567).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>19</ymin>
+			<xmax>624</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

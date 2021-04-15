@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Clear Skies</folder>
+	<filename>night (194).jpeg</filename>
+	<path>E:\Dataset\Test\Night\Clear Skies\night (194).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>118</ymin>
+			<xmax>141</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>126</ymin>
+			<xmax>305</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>118</ymin>
+			<xmax>480</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Autorickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>120</ymin>
+			<xmax>228</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>

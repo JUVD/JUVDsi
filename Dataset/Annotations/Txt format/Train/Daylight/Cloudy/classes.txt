@@ -1,0 +1,9 @@
+Car
+Bus
+Motorbike
+Cycle
+Truck
+Autorickshaw
+Rickshaw
+Van
+Minitruck

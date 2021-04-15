@@ -1,0 +1,25 @@
+<annotation>
+	<folder>Clear Skies</folder>
+	<filename>n_night (3).jpeg</filename>
+	<path>E:\Dataset\Train\Night\Clear Skies\n_night (3).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>moving</pose>
+		<truncated>1</truncated>
+		<bndbox>
+			<xmin>584</xmin>
+			<ymin>100</ymin>
+			<xmax>640</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>

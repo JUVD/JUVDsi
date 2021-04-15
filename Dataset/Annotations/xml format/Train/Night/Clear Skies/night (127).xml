@@ -1,0 +1,14 @@
+<annotation>
+	<folder>Clear Skies</folder>
+	<filename>night (127).jpeg</filename>
+	<path>E:\Dataset\Train\Night\Clear Skies\night (127).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

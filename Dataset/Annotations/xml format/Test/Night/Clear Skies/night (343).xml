@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Clear Skies</folder>
+	<filename>night (343).jpeg</filename>
+	<path>E:\Dataset\Test\Night\Clear Skies\night (343).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Minitruck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>548</xmin>
+			<ymin>101</ymin>
+			<xmax>616</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>
